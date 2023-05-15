@@ -1,0 +1,110 @@
+.back{
+    background-color: #0065c3 ;
+}
+.GR{
+    background-color: #0065c3;
+}
+.blck{
+   
+    background-color: black;
+    
+    
+}
+.nav-item {text-align:justify
+    ;}
+@media all and (max-width: 500px) {
+   img{
+   width: 100%;
+   text-align: center;
+    margin-left: 0%;   
+    margin-right: 0%;   
+    overflow-x:unset;
+   
+   }
+  
+  }
+  .pepsilogo{
+    height: 10%;
+    width: 10%;
+   }
+#vip{
+    height: 100vh;
+    width:100% ;
+    object-fit: cover;
+    position: relative;
+margin-top: 20%;
+margin-bottom: 30%;
+margin-left: 80%;
+}
+
+h1{color: white;
+    font-weight: bold;
+    font-size: 60px;
+
+}
+.ha{
+    height: 300px;
+    align-self: center;
+}
+.h4{text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+text-align: center;
+}
+
+#id{
+    height: 400px;
+}
+.class{
+    padding: 130px;
+}
+.blue{
+     background-image: url(https://www.pepsi.com/en-us/uploads/images/nitro/Tablet_Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgpepsi{position: relative;
+margin-left:50% ;
+width: 100%;
+height: 100VH;
+}
+
+.h5{
+    
+}
+.img{
+    height: 400px;
+}
+.sixe{
+    height: 150px;
+    width: 450px;
+}
+.cls{
+margin-left: -10PX;}
+
+.bottomimages{
+    height: 50%;
+    width: 100%;
+    display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+b:hover {
+            color: #333;
+       }
+
+.mx{
+    text-align: end;
+}
+.footer{ height: 50%;
+    width: 100%;
+    background-color:#0065c3 ;
+    color: white;}
+.b {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
